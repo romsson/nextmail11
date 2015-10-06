@@ -65,7 +65,7 @@ Please note that participants must register to the WI/IAT Conference to attend t
 
 ORGANIZERS
 
-- Romain Vuillemot, LIRIS, UniversitÃ© de Lyon
+- Romain Vuillemot, LIRIS, Université de Lyon
 - Gaëlle Recourcé, KWAGA, Paris
 - Philippe Gilbert, Alinto, Lyon
 
